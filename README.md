@@ -1,1 +1,1 @@
-# Web-Mail-classifier
+# Mail_Classifier
